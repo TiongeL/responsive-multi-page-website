@@ -99,6 +99,7 @@ p {
 }
 @media (max-width: 600px) {
   h1,
+  h2,
   p,
   a {
     text-align: center;
@@ -113,5 +114,11 @@ p {
 
   h3 {
     font-size: 12px;
+  }
+  p {
+    font-size: 12px;
+  }
+  a {
+    display: block;
   }
 }
